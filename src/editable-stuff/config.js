@@ -98,7 +98,7 @@ const repos = {
   heading: "Projects",
   gitHubUsername: "wongalex", //i.e."johnDoe12Gh"
   reposLength: 0,
-  specificRepos: ["home", "ib-algorithm-grade-bias", "JDAK"],
+  specificRepos: ["personal-website", "ib-algorithm-grade-bias", "JDAK"],
 };
 
 // Skills SECTION
