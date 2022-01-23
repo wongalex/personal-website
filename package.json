@@ -1,0 +1,58 @@
+{
+  "name": "developers-portfolio",
+  "description": "My personal website hosted with AWS, built to showcase myself and my projects.",
+  "homepage": "http://wongalex.io",
+  "version": "2.0.0",
+  "private": true,
+  "author": {
+    "name": "Alex Wong",
+    "email": "alexwong@g.harvard.edu",
+    "url": "https://github.com/wongalex"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "bootstrap": "^4.5.2",
+    "gh-pages": "^2.2.0",
+    "jquery": "^3.5.1",
+    "npm": "^8.3.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.14.0",
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "^16.14.0",
+    "react-loading-skeleton": "^2.1.1",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^5.0.0",
+    "react-typist": "^2.0.5",
+    "sass": "^1.45.0",
+    "typescript": "^3.9.7"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "custom-deploy": "node pages.js"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "file-loader": "^6.1.1",
+    "url-loader": "^4.1.1"
+  }
+}

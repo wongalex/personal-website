@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d92d1704.chunk.css",
+    "main.js": "/static/js/main.689471a3.chunk.js",
+    "main.js.map": "/static/js/main.689471a3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.563b350e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.563b350e.js.map",
+    "static/js/2.ae086b0d.chunk.js": "/static/js/2.ae086b0d.chunk.js",
+    "static/js/2.ae086b0d.chunk.js.map": "/static/js/2.ae086b0d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d92d1704.chunk.css.map": "/static/css/main.d92d1704.chunk.css.map",
+    "static/js/2.ae086b0d.chunk.js.LICENSE.txt": "/static/js/2.ae086b0d.chunk.js.LICENSE.txt",
+    "static/media/boeing.png": "/static/media/boeing.040da5a7.png",
+    "static/media/columbia.png": "/static/media/columbia.7da116f7.png",
+    "static/media/harvard.png": "/static/media/harvard.7ac2b414.png",
+    "static/media/profilepicscaled.jpg": "/static/media/profilepicscaled.950d0bbc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.563b350e.js",
+    "static/js/2.ae086b0d.chunk.js",
+    "static/css/main.d92d1704.chunk.css",
+    "static/js/main.689471a3.chunk.js"
+  ]
+}
