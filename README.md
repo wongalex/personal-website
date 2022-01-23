@@ -40,7 +40,7 @@ Dependencies defined in package.json:
   - Resume | About me
 - About Me
   - Display picture (optional)
-  - About myself, my Interests, and Goals
+  - About myself, my interests, and my goals
   - Resume button
 - Education (optional)
 - Experience (optional)
@@ -55,7 +55,7 @@ Dependencies defined in package.json:
 
 ## Sharing 💗
 
-Project is open source. Feel free to make your own version. All you need to do is to fork this repository, edit [src/editable-stuff/config.js](./src/editable-stuff/config.js) and add your resume. Click the star ⭐ if you like the project.
+Project is open source. Feel free to make your own version. All you need to do is to fork this repository, edit [src/editable-stuff/config.js](./src/editable-stuff/config.js) and add your resume.
 
 ## Prerequisites 🍪
 
@@ -68,7 +68,7 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
 2. Clone the forked repo from your account using:
 
    ```bash
-     git clone https://github.com/<your-username>/home.git
+     git clone https://github.com/<your-username>/personal-website.git
    ```
 
 3. Open in your favorite editor and edit [src/editable-stuff/config.js](./src/editable-stuff/config.js) file.
@@ -79,7 +79,7 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
 6. Change URL in [package.json](./package.json) file:
 
    ```json
-    "homepage": "https://<your-username>.github.io/home"
+    "homepage": "https://<your-username>.github.io/personal-website"
    ```
 
    Or for deployment at custom domain, refer to [create-react-app.dev](https://create-react-app.dev/docs/deployment/#step-1-add-homepage-to-packagejson)
@@ -118,7 +118,7 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
 9. Congrats! Your site is up and running. To see it live, visit:
 
    ```https
-     https://<your-username>.github.io/home
+     https://<your-username>.github.io/personal-website
    ```
 
 10. To change the thumbnail image:
@@ -131,9 +131,3 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
    Next time if you make changes, repeat from step 8.
 
 Facing issues? Feel free to contact me at alexwong@g.harvard.edu .
-
-
-## Notice:
-
-This project has been archived, thus it is no longer actively maintained by the developer. Feel free to fork, use, and maintain your own version. 
-
