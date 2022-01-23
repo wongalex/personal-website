@@ -115,7 +115,7 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
 
    Or for deployment at \<username>.github.io, refer to [READMEdocs/custom-deployment.md](./READMEdocs/custom-deployment.md) and [pages.js](./pages.js)
 
-9. Congrats! Your site is up and running. To see it live, visit:
+9. Hooray! Your site should be up and running. To see it live, visit:
 
    ```https
      https://<your-username>.github.io/personal-website
