@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Alex",
   middleName: "",
   lastName: "Wong",
-  message: "Engineer | Programmer | Tech Enthusiast",
+  message: "Software Engineer | Tech Enthusiast ",
   icons: [
     {
       image: "fa-github",
@@ -37,7 +37,7 @@ const about = {
   imageLink: require("../editable-stuff/profilepicscaled.jpg"),
   imageSize: 375,
   message:
-      "Hi! My name is Alex Wong and I will be graduating from Harvard University in May 2022 with a Masters in Digital Media Design. I am passionate about software engineering and how we can make the world better through technology.",
+      "Hi! My name is Alex Wong and I graduated from Harvard University in May 2022 with a Masters in Digital Media Design. I am passionate about software engineering and how we can make the world better through technology.",
   resume: "https://drive.google.com/file/d/1QiDab2mkxMiECVyO4t9Y-pszE1H32ZZe/view?usp=sharing",
 };
 
@@ -70,7 +70,7 @@ const education = {
       school: 'Harvard University',
       degree: 'Master of Liberal Arts in Digital Media Design',
       schoolLogo: require('../assets/images/harvard.png'),
-      graduationDate: 'Expected May 2022',
+      graduationDate: 'May 2022',
     },
     {
       school: 'Columbia University',
@@ -140,7 +140,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-      "I'm currently looking for new grad Software Engineering opportunities! If you know of any positions available or if you just want to say hi, please feel free to email me at:",
+      "If you want to say hi, I am always up for a chat! Please feel free to email me at:",
   email: "alexwong@g.harvard.edu",
 };
 
